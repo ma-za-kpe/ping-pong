@@ -1,11 +1,25 @@
 
 div#header{
   margin-top: 20px;
-  background-color: #F5B7B1;
+  background-color: #ffffff;
   text-align: center;
   height: 200px;
 }
  header div h1{
   margin-top: 40px;
   font-size: 90px;
+  color: #641E16;
+}
+
+#main{
+  background-color: #FADBD8;
+}
+#aside{
+  margin-top: 40px;
+  background-color: #1ABC9C;
+  color: #641E16;
+}
+#aside p a{
+  text-decoration: underline;
+  color: #0B5345;
 }
