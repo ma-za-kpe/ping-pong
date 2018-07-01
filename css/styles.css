@@ -20,6 +20,7 @@ div#header{
   background-color: #D1F2EB ;
 }
 #aside{
+  margin-left: 40px;
   margin-top: 40px;
   background-color: #1ABC9C;
   color: #641E16;
@@ -35,5 +36,19 @@ div#header{
 }
 
 #main-content{
+  border: 10px dotted #641E16;
+  width: 620px;
+  padding-left: 50px;
+  margin: 40px 0px 20px 20px;
   background-color: white;
+}
+
+.list-group {
+	list-style: decimal inside;
+}
+
+.list-group-item {
+	display: list-item;
+  color: #641E16;
+  font-weight: bolder;
 }
