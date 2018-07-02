@@ -1,20 +1,24 @@
 //business logic
 function pingpong(number) {
+  var num = [];
 
   for (var i = 1; i <= number; i++) {
-
     if (i % 15 === 0) {
-      console.log("pingpong");
+      //console.log("pingpong");
+      num.push("pingpong")
     }else if (i % 3 === 0) {
-      console.log("ping")
+      //console.log("ping")
+      num.push("ping")
     } else if (i % 5 === 0) {
-      console.log("pong");
+      //console.log("pong");
+      num.push("pong")
     }else {
-      console.log(i);
+      //console.log(i);
+      num.push(i);
     }
 
   }
-
+  return num;
 }
 
 
