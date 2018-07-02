@@ -1,5 +1,5 @@
 /*global stuff*/
-h3, p{
+h2, h3, p{
   color: #641E16;
 }
 div#header{
@@ -32,7 +32,7 @@ div#header{
 
 #aside Button{
   background-color: #0B5345;
-  padding: 10px;;
+  padding: 10px;
 }
 
 #main-content{
@@ -51,4 +51,13 @@ div#header{
 	display: list-item;
   color: #641E16;
   font-weight: bolder;
+}
+.form-group label{
+  color: #641E16;
+}
+#sub{
+  background-color: #0B5345;
+  padding: 10px;
+  color: white;
+  font-size: 30px;
 }
