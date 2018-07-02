@@ -4,6 +4,12 @@ function pingpong(number) {
   if (typeof number === "number") {
     for (var i = one; i <= number; i++) {
 
+      if (i % 15 === 0) {
+        console.log("pingpong");
+      }else {
+        console.log(i);
+      }
+
     }
   } else {
     return "enter a number"
