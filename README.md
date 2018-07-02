@@ -10,6 +10,10 @@ A web application that takes a number from a user and returns a range of numbers
 
 to run the program, u must have the latest version of google chrome installed, otherwise, download it from: https://www.google.com/chrome/
 
+## LLink to live Pages
+
+https://ma-za-kpe.github.io/ping-pong/
+
 ## LANGUAGES USED
 
 include HTML, CSS, AND  JAVASCRIPT.
@@ -49,7 +53,7 @@ include HTML, CSS, AND  JAVASCRIPT.
 - new number
 
   input = 20
-  
+
   output = 1 2 ping 4 pong ping 7 8 ping pong 11 ping 13 14 pingpong 16 17 ping 19 pong
 
 ## link to live site on GitHub Pages
