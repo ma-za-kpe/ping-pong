@@ -2,7 +2,9 @@
 function pingpong(number) {
 
   if (typeof number === "number") {
-    
+    for (var i = one; i <= number; i++) {
+
+    }
   } else {
     return "enter a number"
   }
