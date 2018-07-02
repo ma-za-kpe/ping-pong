@@ -6,6 +6,8 @@ function pingpong(number) {
 
       if (i % 15 === 0) {
         console.log("pingpong");
+      }else if (i % 3 === 0) {
+        console.log("ping")
       }else {
         console.log(i);
       }
