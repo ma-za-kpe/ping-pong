@@ -17,23 +17,39 @@ include HTML, CSS, AND  JAVASCRIPT.
 ## SPECS FOR THE PROJECT INCLUDING INPUT AND OUTPUT
 
 - Take a number
+
   input = a
+
   output = "please enter a number"
 
 - display the numbers from one to the number on the console
+
   input = 3
+
   output = 1 2 3
+
 - numbers divisible by 15 are replaced by pingpong
+
   input = 15
+
   output = 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pingpong
+
 - numbers divisible by 3 are replaced by ping
+
   input = 17
+
   output = 1 2 ping 4 5 ping 7 8 ping 10 11 ping 13 14 pingpong 16 17
+
 - numbers divisible by 3 are replaced by ping
+
   input = 16
+
   output = 1 2 ping 4 pong ping 7 8 ping pong 11 ping 13 14 pingpong 16
+
 - new number
+
   input = 20
+  
   output = 1 2 ping 4 pong ping 7 8 ping pong 11 ping 13 14 pingpong 16 17 ping 19 pong
 
 ## link to live site on GitHub Pages
