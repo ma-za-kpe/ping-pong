@@ -54,6 +54,8 @@ include HTML, CSS, AND  JAVASCRIPT.
 
 ## link to live site on GitHub Pages
 
+https://ma-za-kpe.github.io/ping-pong/
+
 ## copyright and license information
 
 The code in this repository is licensed under the Apache License, Version 2.0 (the "License");
