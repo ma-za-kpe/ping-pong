@@ -30,7 +30,15 @@ $(document).ready(function () {
     var number = $("input#num").val();
     var result = pingpong(number);
 
-    $("#result").text(result);
+    //console.log(typeof result);
+    for (var i = 0; i < result.length; i++) {
+      $("#text").append( "<li>"+ result[i] + "</li>" )
+    }
+
+
+   $("#num").val(" ")
+
+    // $("#result").text(result);
   })
 
 });
